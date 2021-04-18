@@ -1,4 +1,4 @@
-## Welcome to my profile 😃
+## Kon'nichiwa Minna👋
 - 👋 Hi, I’m Shubham Chakraborty, alias, Yuta as @me-yutakun
 - 👀 I’m interested in "WEB DEV & ANALYTICS"
 - 🌱 I’m currently learning BIGDATA & SPARK
@@ -6,8 +6,8 @@
 - 📫 How to reach me: 
                       mailto: cosmoscandium@gmail.com
                    
-                      messenger: https://m.me/me.yutakun
-### 💥 LOOKING FOR CONTRIBUTORS (If interested, reach me! to have a collab XD): 
+           :::: Lets chat on messenger: https://m.me/me.yutakun ::::
+## 🚨 ALERT: LOOKING FOR CONTRIBUTORS 
 #### 🎁 me-yutakun/ImageProcessingBasedFireDetection repo
 #### 🎁 me-yutakun/StockMarketTrends repo.
 ###### Last Updated: 17.4.21 10:30 PM
