@@ -4,11 +4,12 @@
 - 🌱 I’m currently learning BIGDATA & SPARK
 - 💞️ I’m looking to collaborate on DATA SCIENCE BASED PROJECTS
 - 📫 How to reach me: 
-                   => mailto: cosmoscandium@gmail.com
-                   => messenger: https://m.me/me.yutakun
+                      mailto: cosmoscandium@gmail.com
+                   
+                      messenger: https://m.me/me.yutakun
 ### 💥 LOOKING FOR CONTRIBUTORS (If interested, reach me! to have a collab XD): 
-#### me-yutakun/ImageProcessingBasedFireDetection repo
-#### me-yutakun/StockMarketTrends repo.
+#### 🎁 me-yutakun/ImageProcessingBasedFireDetection repo
+#### 🎁 me-yutakun/StockMarketTrends repo.
 ###### Last Updated: 17.4.21 10:30 PM
 <!---
 me-yutakun/me-yutakun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
