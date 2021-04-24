@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on DATA SCIENCE BASED PROJECTS
 - 📫 How to reach me:
 
-      :: mailto: cosmoscandium@gmail.com ::
+      :::: cosmoscandium@gmail.com ::::
                      OR                  
       :::: Lets chat on messenger: https://m.me/me.yutakun ::::
 ## 🚨 ALERT: LOOKING FOR CONTRIBUTORS 
