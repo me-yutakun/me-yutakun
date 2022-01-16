@@ -2,10 +2,10 @@
 - 👋 Hi, Shubham Chakraborty here, alias, Yuta as @me-yutakun
 - 👀 WEB DEV & ANALYTICS enthusiast
 - 🌱 Hovering over BIGDATA & SPARK
-- 💞️ Let's have dependency on each other! for better complilation.
+- 💞️ Let's have dependency on each other! for better compilation.
 - 📫 How to reach me?
 
-      :::: cosmoscandium@gmail.com ::::
+      :::: shubhamc98@yahoo.com ::::
                      OR                  
       :::: Lets chat on messenger: https://m.me/me.yutakun ::::
 ## 🚨 ALERT: LOOKING FOR CONTRIBUTORS 
