@@ -1,7 +1,7 @@
 ## Kon'nichiwa Minna👋
 - 👋 Hi, Shubham Chakraborty here, aka Yuta as @me-yutakun
-- 👀 BigData & Web Dev Enthusiast
-- 🌱 Hovering over Apache Spark
+- 👀 BigData & Analytics Enthusiast
+- 🌱 Hovering over Apache Spark/Scala
 - 💞️ Let's have dependency on each other! for better compilation
 - 🌐 Polyglot guy who loves to code in #scala #python3 #c #js #css #html
 - 📫 How to reach me?
