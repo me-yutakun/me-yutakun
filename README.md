@@ -27,5 +27,6 @@ Looking for contributors to enhance below repositories!
 #### ✔ https://github.com/me-yutakun/IPFireDetector1.0
 #### ✔ https://github.com/me-yutakun/StockMarketAnalyzer1.0
 
+###### 訪問してくれてありがとう 
 [![](https://visitcount.itsvg.in/api?id=me-yutakun&icon=1&color=12)](https://visitcount.itsvg.in)
 ---
