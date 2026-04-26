@@ -23,7 +23,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 💞️ Let's establish dependency on each other, for better compilation!<br>
 🌐 Polyglot developer passionate about **Data Engineering**, **Big Data Processing**, and **Full Stack Development**<br>
 🎯 Currently exploring the depths of **Apache Spark** and **Scala**<br>
@@ -32,55 +31,45 @@
 ---
 
 ## 💻 Tech Stack
-
 **Data Engineering & Big Data:**<br>
-![Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Scala](https://img.shields.io/badge/scala-%23F62020.svg?style=for-the-badge&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
+![Scala](https://img.shields.io/badge/scala-%23F62020.svg?style=for-the-badge&logo=scala&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Backend & Databases:**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/mssql-%2300758f.svg?style=for-the-badge&logo=mssql&logoColor=white)
 
 **Frontend & Tools:**<br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=me-yutakun&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=me-yutakun&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-Looking to collaborate and enhance these exciting projects!
+## 🚀 Open Source Projects
+🔴 Seeking contributors to collaborate and enhance these exciting projects!
 
 #### 🔗 **[MDBrowser](https://github.com/me-yutakun/MDBrowser)**
-MongoDB data exploration and visualization tool for developers and data analysts.
-- **Tech Stack:** Python, MongoDB, React
-- **Status:** 🔴 Seeking Contributors
 
 #### 🔗 **[IPFireDetector](https://github.com/me-yutakun/IPFireDetector)**
-Real-time IP threat detection and firewall management system.
-- **Tech Stack:** Python, Network Security, Machine Learning
-- **Status:** 🔴 Seeking Contributors
 
 #### 🔗 **[StockMarketAnalyzer](https://github.com/me-yutakun/StockMarketAnalyzer)**
-Data-driven stock market analysis and prediction using Apache Spark and statistical models.
-- **Tech Stack:** Scala, Spark, Python, Data Analysis
-- **Status:** 🔴 Seeking Contributors
 
 **Interested in contributing?** Feel free to open issues, submit PRs, or reach out!
 
 ---
 
 ## 💬 Let's Connect!
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/me-yutakun) 
@@ -91,7 +80,6 @@ Data-driven stock market analysis and prediction using Apache Spark and statisti
 **📧 Email:** shubhamc98@yahoo.com  
 **💬 Messenger:** [Message me](https://m.me/me.yutakun)  
 **🔗 LinkedIn:** [me-yutakun](https://linkedin.com/in/me-yutakun)
-
 </div>
 
 ---
