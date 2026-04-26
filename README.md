@@ -13,15 +13,6 @@
 
 ---
 
-## 📋 Contents
-- [About Me](#about-me)
-- [Tech Stack](#tech-stack)
-- [GitHub Stats](#github-stats)
-- [Featured Projects](#featured-projects)
-- [Let's Connect](#lets-connect)
-
----
-
 ## 👨‍💻 About Me
 💞️ Let's establish dependency on each other, for better compilation!<br>
 🌐 Polyglot developer passionate about **Data Engineering**, **Big Data Processing**, and **Full Stack Development**<br>
