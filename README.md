@@ -1,9 +1,9 @@
 ###### Last Updated: 26-Apr-2026 10:00 PM JST
 
 # Kon'nichiwa, Yuta here👋
-[![Years Badge](https://badges.pufler.dev/years/me-yutakun)]
-[![Repos Badge](https://badges.pufler.dev/repos/me-yutakun)]
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/me-yutakun)]
+![Years Badge](https://badges.pufler.dev/years/me-yutakun)
+![Repos Badge](https://badges.pufler.dev/repos/me-yutakun)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/me-yutakun)
 
 <div align="center">
 
